@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "id": "1",
+      "name": "Diamond",
+      "category": "Gemstones",
+      "iorValue": 2.417,
+      "description": "Pure carbon crystal",
+      "wavelength": 589,
+      "temperature": 20,
+      "source": "Standard optical measurements"
+    },
+    {
+      "id": "2",
+      "name": "Water",
+      "category": "Liquids",
+      "iorValue": 1.333,
+      "description": "Pure water at room temperature",
+      "wavelength": 589,
+      "temperature": 20,
+      "source": "Scientific measurements"
+    },
+    {
+      "id": "1731307452644",
+      "name": "adasd",
+      "category": "afasda",
+      "iorValue": 121321,
+      "description": "asdasfas",
+      "wavelength": 589,
+      "temperature": 20,
+      "source": ""
+    }
+  ]
+}
